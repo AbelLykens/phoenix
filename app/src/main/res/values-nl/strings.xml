@@ -419,7 +419,7 @@
   <!-- //////////////// electrum server //////////////// -->
 
   <string name="electrum_title">Electrum-server</string>
-  <string name="electrum_subtitle">Phoenix verbint standaard met willekeurige Electrum-servers om toegang te krijgen tot de Bitcoin-blockchain. Je kan er ook voor kiezen om verbinding te maken met je eigen Electrum-server.</string>
+  <string name="electrum_subtitle">Phoenix verbindt standaard met willekeurige Electrum-servers om toegang te krijgen tot de Bitcoin-blockchain. Je kan er ook voor kiezen om verbinding te maken met je eigen Electrum-server.</string>
   <string name="electrum_change_button">Stel server in…</string>
 
   <string name="electrum_block_height_label">Blockhoogte</string>
